@@ -3,7 +3,7 @@
 This repository contains my solution for **Task 1: Movie Genre Classification**,
 completed as part of my Machine Learning Internship at **CodSoft**.
 
-## Task Objective
+## 📌Task Objective
 Build a machine learning model that predicts the **genre of a movie** based on
 its **plot summary / description**.
 
