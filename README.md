@@ -66,6 +66,7 @@ CODSOFT_TASK1/
 ```
 
 ## 🎥 Demo
+    https://lnkd.in/gKj_qZJy
 
 
 ## 🙌 Acknowledgements
